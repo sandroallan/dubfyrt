@@ -3,20 +3,44 @@
   "notifications": [
     {
       "id": "notif-001",
-      "title": "Nova versão disponível!",
-      "subtitle": "Atualize para v1.4.2 e ganhe novos recursos.",
+      "title": {
+        "pt-br": "Nova versão disponível!",
+        "en": "New version available!",
+        "es-es": "¡Nueva versión disponible!"
+      },
+      "subtitle": {
+        "pt-br": "Atualize para v1.4.2 e ganhe novos recursos.",
+        "en": "Update to v1.4.2 and unlock new features.",
+        "es-es": "Actualiza a la v1.4.2 y obtén nuevas funciones."
+      },
       "url": "https://meusite.com/changelog"
     },
     {
       "id": "notif-002",
-      "title": "Dica da semana 💡",
-      "subtitle": "Aprenda como automatizar suas transcrições.",
+      "title": {
+        "pt-br": "Dica da semana 💡",
+        "en": "Tip of the week 💡",
+        "es-es": "Consejo de la semana 💡"
+      },
+      "subtitle": {
+        "pt-br": "Aprenda como automatizar suas transcrições.",
+        "en": "Learn how to automate your transcriptions.",
+        "es-es": "Aprende cómo automatizar tus transcripciones."
+      },
       "url": "https://meusite.com/tutorials/automatizar-transcricao"
     },
     {
       "id": "notif-003",
-      "title": "Plugin novo disponível",
-      "subtitle": "Conheça o Plugin Sync Timeline.",
+      "title": {
+        "pt-br": "Plugin novo disponível",
+        "en": "New plugin available",
+        "es-es": "Nuevo plugin disponible"
+      },
+      "subtitle": {
+        "pt-br": "Conheça o Plugin Sync Timeline.",
+        "en": "Meet the Sync Timeline Plugin.",
+        "es-es": "Conoce el Plugin Sync Timeline."
+      },
       "url": "https://meusite.com/plugins/sync-timeline"
     }
   ]
