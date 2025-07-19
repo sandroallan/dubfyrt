@@ -1,0 +1,23 @@
+{
+  "update_id": 1,
+  "notifications": [
+    {
+      "id": "notif-001",
+      "title": "Nova versão disponível!",
+      "subtitle": "Atualize para v1.4.2 e ganhe novos recursos.",
+      "url": "https://meusite.com/changelog"
+    },
+    {
+      "id": "notif-002",
+      "title": "Dica da semana 💡",
+      "subtitle": "Aprenda como automatizar suas transcrições.",
+      "url": "https://meusite.com/tutorials/automatizar-transcricao"
+    },
+    {
+      "id": "notif-003",
+      "title": "Plugin novo disponível",
+      "subtitle": "Conheça o Plugin Sync Timeline.",
+      "url": "https://meusite.com/plugins/sync-timeline"
+    }
+  ]
+}
