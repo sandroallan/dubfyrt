@@ -3,6 +3,7 @@
   "notifications": [
     {
       "id": "notif-001",
+      "datetime": "2025-07-18 09:30",
       "title": {
         "pt-br": "Nova versão disponível!",
         "en": "New version available!",
@@ -17,6 +18,7 @@
     },
     {
       "id": "notif-002",
+      "datetime": "2025-07-17 14:10",
       "title": {
         "pt-br": "Dica da semana 💡",
         "en": "Tip of the week 💡",
@@ -31,6 +33,7 @@
     },
     {
       "id": "notif-003",
+      "datetime": "2025-07-16 11:45",
       "title": {
         "pt-br": "Plugin novo disponível",
         "en": "New plugin available",
@@ -45,6 +48,7 @@
     },
     {
       "id": "notif-004",
+      "datetime": "2025-07-15 18:20",
       "title": {
         "pt-br": "Nova funcionalidade: Tradução em tempo real",
         "en": "New Feature: Real-time Translation",
@@ -59,6 +63,7 @@
     },
     {
       "id": "notif-005",
+      "datetime": "2025-07-14 08:00",
       "title": {
         "pt-br": "Estamos ouvindo você 👂",
         "en": "We’re listening 👂",
@@ -73,6 +78,7 @@
     },
     {
       "id": "notif-006",
+      "datetime": "2025-07-12 16:55",
       "title": {
         "pt-br": "Black Friday antecipada 🛍️",
         "en": "Early Black Friday 🛍️",
@@ -87,6 +93,7 @@
     },
     {
       "id": "notif-007",
+      "datetime": "2025-07-10 10:15",
       "title": {
         "pt-br": "Mantenha-se seguro 🔒",
         "en": "Stay secure 🔒",
