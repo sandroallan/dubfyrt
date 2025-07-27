@@ -1,0 +1,112 @@
+{
+  "update_id": 3,
+  "notifications": [
+    {
+      "id": "notif-001",
+      "datetime": "2025-07-19 09:30",
+      "title": {
+        "pt-br": "Nova versão disponível!",
+        "en": "New version available!",
+        "es-es": "¡Nueva versión disponible!"
+      },
+      "subtitle": {
+        "pt-br": "A versão 1.4.2 já está no ar! Atualize agora e aproveite melhorias de performance, novos recursos e correções críticas.",
+        "en": "Version 1.4.2 is now live! Update now to enjoy performance improvements, new features, and critical bug fixes.",
+        "es-es": "¡La versión 1.4.2 ya está disponible! Actualiza ahora para disfrutar de mejoras de rendimiento, nuevas funciones y correcciones importantes."
+      },
+      "url": "https://meusite.com/changelog",
+      "important": true
+    },
+    {
+      "id": "notif-002",
+      "datetime": "2025-07-17 14:10",
+      "title": {
+        "pt-br": "Dica da semana 💡",
+        "en": "Tip of the week 💡",
+        "es-es": "Consejo de la semana 💡"
+      },
+      "subtitle": {
+        "pt-br": "Descubra como automatizar suas transcrições em segundos com nosso novo tutorial detalhado e economize horas de trabalho manual.",
+        "en": "Discover how to automate your transcriptions in seconds with our detailed new tutorial and save hours of manual work.",
+        "es-es": "Descubre cómo automatizar tus transcripciones en segundos con nuestro nuevo tutorial detallado y ahorra horas de trabajo manual."
+      },
+      "url": "https://meusite.com/tutorials/automatizar-transcricao"
+    },
+    {
+      "id": "notif-003",
+      "datetime": "2025-07-16 11:45",
+      "title": {
+        "pt-br": "Plugin novo disponível",
+        "en": "New plugin available",
+        "es-es": "Nuevo plugin disponible"
+      },
+      "subtitle": {
+        "pt-br": "Experimente o novo Plugin Sync Timeline para sincronização perfeita entre áudio e legendas em seus projetos.",
+        "en": "Try the new Sync Timeline Plugin for seamless synchronization between audio and subtitles in your projects.",
+        "es-es": "Prueba el nuevo Plugin Sync Timeline para una sincronización perfecta entre audio y subtítulos en tus proyectos."
+      },
+      "url": "https://meusite.com/plugins/sync-timeline"
+    },
+    {
+      "id": "notif-004",
+      "datetime": "2025-07-15 18:20",
+      "title": {
+        "pt-br": "Nova funcionalidade: Tradução em tempo real",
+        "en": "New Feature: Real-time Translation",
+        "es-es": "Nueva función: Traducción en tiempo real"
+      },
+      "subtitle": {
+        "pt-br": "Agora você pode traduzir vídeos enquanto transcreve. Experimente a tradução automática em mais de 20 idiomas.",
+        "en": "You can now translate videos as you transcribe. Try automatic translation in over 20 languages.",
+        "es-es": "Ahora puedes traducir videos mientras transcribes. Prueba la traducción automática en más de 20 idiomas."
+      },
+      "url": "https://meusite.com/features/real-time-translation"
+    },
+    {
+      "id": "notif-005",
+      "datetime": "2025-07-14 08:00",
+      "title": {
+        "pt-br": "Estamos ouvindo você 👂",
+        "en": "We’re listening 👂",
+        "es-es": "Te estamos escuchando 👂"
+      },
+      "subtitle": {
+        "pt-br": "Envie seu feedback diretamente pelo app e ajude a moldar os próximos recursos que iremos lançar.",
+        "en": "Send your feedback directly through the app and help shape the upcoming features we will launch.",
+        "es-es": "Envíanos tus comentarios directamente desde la app y ayuda a dar forma a las próximas funciones que lanzaremos."
+      },
+      "url": "https://meusite.com/feedback"
+    },
+    {
+      "id": "notif-006",
+      "datetime": "2025-07-12 16:55",
+      "title": {
+        "pt-br": "Black Friday antecipada 🛍️",
+        "en": "Early Black Friday 🛍️",
+        "es-es": "Black Friday anticipado 🛍️"
+      },
+      "subtitle": {
+        "pt-br": "Aproveite descontos de até 50% em todos os planos PRO. Oferta válida até domingo!",
+        "en": "Get up to 50% off all PRO plans. Offer valid through Sunday only!",
+        "es-es": "¡Aprovecha hasta un 50% de descuento en todos los planes PRO! Oferta válida solo hasta el domingo."
+      },
+      "url": "https://meusite.com/promo/black-friday"
+    },
+    {
+      "id": "notif-007",
+      "datetime": "2025-07-10 10:15",
+      "title": {
+        "pt-br": "Mantenha-se seguro 🔒",
+        "en": "Stay secure 🔒",
+        "es-es": "Mantente seguro 🔒"
+      },
+      "subtitle": {
+        "pt-br": "Ative a autenticação em dois fatores (2FA) para proteger sua conta com uma camada extra de segurança.",
+        "en": "Enable two-factor authentication (2FA) to protect your account with an extra layer of security.",
+        "es-es": "Activa la autenticación de dos factores (2FA) para proteger tu cuenta con una capa adicional de seguridad."
+      },
+      "url": "https://meusite.com/security",
+      "important": true
+    }
+  ]
+}
